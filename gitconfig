@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = caroramireztrillo@gmail.com
+	name = Carolina Ramirez Trillo
